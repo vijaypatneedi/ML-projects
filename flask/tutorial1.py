@@ -10,6 +10,6 @@ def hello():
 
 @app.route("/vijay")
 def harry():
-    return "Hello vijay, keep going..."
+    return "Hello vijay, keep going...!"
 
-app.run()
+app.run(debug=True) #detects change and reloads
