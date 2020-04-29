@@ -2,9 +2,9 @@ from flask import Flask, render_template, redirect, url_for
 app = Flask(__name__)
 
 
-@app.route("/") #this decorator is used give path to function
-def home():
-    return render_template("index.html")
+@app.route("/<name>") #this decorator is used give path to function
+def home(name):
+    return render_template("index.html", content=name)
 
 @app.route("/<name>")
 def user(name):
