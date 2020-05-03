@@ -7,3 +7,11 @@
 2020-02-15/17:35:36		GoodRaw directory deleted successfully!!!
 2020-02-15/17:35:36		Bad files moved to archive
 2020-02-15/17:35:36		Bad Raw Data Folder Deleted successfully!!
+2020-04-30/17:56:53		BadRaw directory deleted before starting validation!!!
+2020-04-30/17:56:53		GoodRaw directory deleted successfully!!!
+2020-04-30/17:56:56		GoodRaw directory deleted successfully!!!
+2020-04-30/17:56:56		Bad files moved to archive
+2020-04-30/17:56:56		Bad Raw Data Folder Deleted successfully!!
+2020-04-30/19:26:33		GoodRaw directory deleted successfully!!!
+2020-04-30/19:26:33		Bad files moved to archive
+2020-04-30/19:26:33		Bad Raw Data Folder Deleted successfully!!
